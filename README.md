@@ -6,5 +6,6 @@ This repo contains my solutions for [Advent of Code 2021](https://adventofcode.c
 
 The solution to each day's puzzle (along with any input) is stored in its own directory:
 * [Day 1: Sonar Sweep](./day01)
-* [Day 2: Dive!](./day02) 
-* [Day 3: Binary Diagnostic](./day03) 
+* [Day 2: Dive!](./day02)
+* [Day 3: Binary Diagnostic](./day03)
+* [Day 4: Giant Squid](./day04)
