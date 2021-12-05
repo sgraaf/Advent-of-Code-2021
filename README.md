@@ -9,3 +9,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 * [Day 2: Dive!](./day02)
 * [Day 3: Binary Diagnostic](./day03)
 * [Day 4: Giant Squid](./day04)
+* [Day 5: Hydrothermal Venture](./day05) 
