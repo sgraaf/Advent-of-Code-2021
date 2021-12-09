@@ -12,3 +12,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 * [Day 5: Hydrothermal Venture](./day05) 
 * [Day 6: Lanternfish](./day06) 
 * [Day 7: The Treachery of Whales](./day07) 
+* [Day 8: Seven Segment Search](./day08) 
