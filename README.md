@@ -14,3 +14,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 * [Day 7: The Treachery of Whales](./day07)
 * [Day 8: Seven Segment Search](./day08)
 * [Day 9: Smoke Basin](./day09)
+* [Day 10: Syntax Scoring](./day10)
