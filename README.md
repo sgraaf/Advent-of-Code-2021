@@ -16,3 +16,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 * [Day 9: Smoke Basin](./day09)
 * [Day 10: Syntax Scoring](./day10)
 * [Day 11: Dumbo Octopus](./day11)
+* [Day 12: Passage Pathing](./day12)
